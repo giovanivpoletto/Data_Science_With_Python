@@ -5,7 +5,7 @@
 </p>
 
 # Giovani Poletto
-<sub>*head of Technology* at Neobits Soluções em Tecnologia</sub>
+<sub>*Head of Technology* at Neobits Soluções em Tecnologia</sub>
 
 As an experienced infrastructure professional, I combine my background skills with python development, cloud infrastructure, cybersecurity, forensics analysis and a lot of curiosity!
 
