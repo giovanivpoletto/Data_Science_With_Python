@@ -7,9 +7,10 @@
 # Giovani Poletto
 <sub>*head of Technology* at Neobits Soluções em Tecnologia</sub>
 
-As a experienced infrastructure professional, I combine my background skills with python development, cloud infrastructure, cyber security, forensics analysis and a lot of curiosity!
+As an experienced infrastructure professional, I combine my background skills with python development, cloud infrastructure, cybersecurity, forensics analysis and a lot of curiosity!
 
 **Background in:** FreeBSD, Linux, SQL, Shell Script, Firewalls, Network and a little bit of windows.
+**Curiosity in:** Neuroscience, psycology and natural science.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/giovanipoletto)
