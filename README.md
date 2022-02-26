@@ -18,6 +18,6 @@ As an experienced infrastructure professional, I combine my background skills wi
 
 
 ## Projetos:
-* Under construction
+* [Analisando dados do Airbnb sobre Toronto] (https://bit.ly/3soETvF)
 
 ---
