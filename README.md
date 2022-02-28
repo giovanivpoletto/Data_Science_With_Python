@@ -14,6 +14,7 @@ As an experienced infrastructure professional, I combine my background skills wi
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/giovanipoletto)
+* [Medium[(https://medium.com/@giovani.poletto)
 
 
 
